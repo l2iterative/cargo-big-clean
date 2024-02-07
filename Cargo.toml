@@ -3,6 +3,8 @@ name = "cargo-big-clean"
 version = "0.1.0"
 authors = ["Weikeng Chen <weikeng.chen@l2iterative.com>"]
 edition = "2021"
+description = "a tool to clean the target directories of many Rust projects"
+license = "MIT"
 readme = "README.md"
 
 [dependencies]
