@@ -3,6 +3,7 @@ name = "cargo-big-clean"
 version = "0.1.0"
 authors = ["Weikeng Chen <weikeng.chen@l2iterative.com>"]
 edition = "2021"
+readme = "README.md"
 
 [dependencies]
 anyhow = "1.0.79"
